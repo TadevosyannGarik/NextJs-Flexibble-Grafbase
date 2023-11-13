@@ -6,7 +6,7 @@ export const NavLinks = [
     { href: '/', key: 'Hire Developers', text: 'Hire Developers' }
 ];
   
-  export const categoryFilters = [
+export const categoryFilters = [
     "Frontend",
     "Backend",
     "Full-Stack",
@@ -19,7 +19,8 @@ export const NavLinks = [
     "Cybersecurity",
     "Blockchain",
     "E-commerce",
-    "Chatbots"
+    "Chatbots",
+    "Embedded Systems",
 ]
   
 export const footerLinks = [
@@ -33,6 +34,9 @@ export const footerLinks = [
             'Open-source projects',
             'Refer a Friend',
             'Code of conduct',
+            'Developer resources',
+            'Coding tutorials',
+            'Contributor guidelines'
         ],
     },
     {
@@ -41,6 +45,13 @@ export const footerLinks = [
             'Post a job opening',
             'Post a freelance project',
             'Search for developers',
+            'Find top talent',
+            'Hire a remote team',
+            'Recruitment services',
+            'Outsourcing solutions',
+            'Contract developers',
+            'Technical interviews',
+            'Hiring strategies'
         ],
     },
     {
@@ -61,6 +72,7 @@ export const footerLinks = [
             'Terms of service',
             'Privacy policy',
             'Cookie policy',
+            'Our mission'
         ],
     },
     {
@@ -71,6 +83,11 @@ export const footerLinks = [
             'Freelance developers for hire',
             'Tags',
             'Places',
+            'Development job listings',
+            'Find available developers',
+            'Hire freelance developers',
+            'Browse by tags',
+            'Discover places and communities'
         ],
     },
     {
@@ -91,6 +108,10 @@ export const footerLinks = [
             'Development Education',
             'Creative Process',
             'Development Industry Trends',
+            'Freelancing in development',
+            'Hiring developers for projects',
+            'Building a development portfolio',
+            'Education in software development'
         ],
     },
 ];
