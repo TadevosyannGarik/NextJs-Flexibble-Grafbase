@@ -13,7 +13,7 @@ Personalized profiles: Each user has his own profile, where you can view uploade
 Project Management: You have complete control over your projects. You can make changes or delete your work at any time. As well as filtering by category.
 ##
 
-| Header |
+| Project Images |
 |:------:|
 | ![1](https://github.com/TadevosyannGarik/NextJs-Flexibble-Grafbase/blob/main/images/1.png) |
 | |
